@@ -109,10 +109,13 @@ print(x_single_prediction)
 ### Training Loss, Validation Loss Vs Iteration Plot
 <img src ="https://user-images.githubusercontent.com/75234646/191811016-afa2ee12-654b-4c22-b5a7-c8576fbd686a.PNG" width ="50%" height="40%"> 
 <img src ="https://user-images.githubusercontent.com/75234646/191811028-f059071e-13f4-4f8e-882f-f44ebe64b62c.PNG" width ="50%" height="40%"> 
+
 ### Classification Report
 <img src ="https://user-images.githubusercontent.com/75234646/191811072-5bde9b7d-f4e8-4c08-b33f-4e61fd80376f.PNG" width ="50%" height="40%"> 
+
 ### Confusion Matrix
 <img src ="https://user-images.githubusercontent.com/75234646/191811061-abaedaff-27aa-4466-9e44-81711e048814.PNG" width ="50%" height="40%"> 
+
 ### New Sample Data Prediction
 <img src ="https://user-images.githubusercontent.com/75234646/191811082-06051eee-da22-4021-aacc-acc48eda8a71.PNG" width ="50%" height="40%">
 <img src ="https://user-images.githubusercontent.com/75234646/191811093-1d528ef8-e07c-4839-ba1d-a575f0b260c5.PNG" width ="50%" height="40%">
