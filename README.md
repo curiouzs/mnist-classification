@@ -28,8 +28,6 @@ Plot the performance plot
 Evaluate and fit the model 
 ## PROGRAM
 ```python
-#DEVELOPED BY : LOKESH KRISHNAA M
-#REGISTER NO: 212220230030
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
